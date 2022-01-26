@@ -1,0 +1,16 @@
+C:\Users\mikio\Downloads\estudo\DigitalInivationOne\bin\Debug\net5.0\DigitalInivationOne.exe
+C:\Users\mikio\Downloads\estudo\DigitalInivationOne\bin\Debug\net5.0\DigitalInivationOne.deps.json
+C:\Users\mikio\Downloads\estudo\DigitalInivationOne\bin\Debug\net5.0\DigitalInivationOne.runtimeconfig.json
+C:\Users\mikio\Downloads\estudo\DigitalInivationOne\bin\Debug\net5.0\DigitalInivationOne.runtimeconfig.dev.json
+C:\Users\mikio\Downloads\estudo\DigitalInivationOne\bin\Debug\net5.0\DigitalInivationOne.dll
+C:\Users\mikio\Downloads\estudo\DigitalInivationOne\bin\Debug\net5.0\ref\DigitalInivationOne.dll
+C:\Users\mikio\Downloads\estudo\DigitalInivationOne\bin\Debug\net5.0\DigitalInivationOne.pdb
+C:\Users\mikio\Downloads\estudo\DigitalInivationOne\obj\Debug\net5.0\DigitalInivationOne.csproj.AssemblyReference.cache
+C:\Users\mikio\Downloads\estudo\DigitalInivationOne\obj\Debug\net5.0\DigitalInivationOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikio\Downloads\estudo\DigitalInivationOne\obj\Debug\net5.0\DigitalInivationOne.AssemblyInfoInputs.cache
+C:\Users\mikio\Downloads\estudo\DigitalInivationOne\obj\Debug\net5.0\DigitalInivationOne.AssemblyInfo.cs
+C:\Users\mikio\Downloads\estudo\DigitalInivationOne\obj\Debug\net5.0\DigitalInivationOne.csproj.CoreCompileInputs.cache
+C:\Users\mikio\Downloads\estudo\DigitalInivationOne\obj\Debug\net5.0\DigitalInivationOne.dll
+C:\Users\mikio\Downloads\estudo\DigitalInivationOne\obj\Debug\net5.0\ref\DigitalInivationOne.dll
+C:\Users\mikio\Downloads\estudo\DigitalInivationOne\obj\Debug\net5.0\DigitalInivationOne.pdb
+C:\Users\mikio\Downloads\estudo\DigitalInivationOne\obj\Debug\net5.0\DigitalInivationOne.genruntimeconfig.cache

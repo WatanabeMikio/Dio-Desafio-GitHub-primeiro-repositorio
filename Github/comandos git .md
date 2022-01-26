@@ -9,7 +9,7 @@
 ## comandos iniciais
 1. git init -inicia o git na pasta.
 2. git add  - (pode ser * ou nome do arquivo) adiciona os arquivos para o local conhecido Untracked --> Tracked
-3. git commit -commita os arquivos e gera o sha de conjunto de arquivo unico
+3. git commit -m "mensagem" -commita os arquivos e gera o sha de conjunto de arquivo unico
 
 ## comandos Base
 1. git config --list (lista as configuracoes do git) utiliz *q* para sair
